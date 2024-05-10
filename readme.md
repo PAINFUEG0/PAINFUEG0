@@ -54,7 +54,7 @@
 </p>
 
 <p align = "center">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Painfueg0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Painfueg0&include_all_commits=true&count_private=true&theme=dracula"/>
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Painfueg0&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 </p>
