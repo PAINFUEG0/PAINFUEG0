@@ -1,7 +1,17 @@
 <!-- @format -->
 
 <p align = "center">
-    <img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+Welcome+To+My+GitHub&hearts;++;Painfuego+here+;Active+learner/researcher;Love+to+code+and+learn+new+stuff...<3">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Painfuego&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+</p>
+
+<p align = "center">
+    <img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+Welcome+To+My+GitHub;++;Painfuego+here+;Active+learner/researcher;Love+to+code+and+learn+new+stuff...<3">
+</p>
+
+<p align = "center">
+    <a href="https://discord.gg/SNG3dh3MbR" target="_blank"> 
+    <img src="https://discordapp.com/api/guilds/952570101784281139/widget.png?style=banner2"/>
+    </a> 
 </p>
 
 <p align = "center">
@@ -15,7 +25,7 @@
 </p>
 
 <p align = "center">
-    <img src = "https://github-profile-trophy.vercel.app/?username=ftrapture"/>
+    <img src = "https://github-profile-trophy.vercel.app/?username=painfueg0"/>
 </p>
 
 <p align = "center">
@@ -44,8 +54,9 @@
 </p>
 
 <p align = "center">
-    <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=painfueg0&show_icons=true&locale=en"/>
-    <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=painfueg0&"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Painfueg0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Painfueg0&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 </p>
 
 <p align = "center">
