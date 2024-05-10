@@ -25,10 +25,6 @@
 </p>
 
 <p align = "center">
-    <img src = "https://github-profile-trophy.vercel.app/?username=painfueg0"/>
-</p>
-
-<p align = "center">
     <b>Stuff that I am currently learning :</b>
     </br></br>
     <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
@@ -57,6 +53,9 @@
     <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Painfueg0&include_all_commits=true&count_private=true&theme=dracula"/>
     <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Painfueg0&layout=compact&langs_count=7&theme=dracula"/>
 </p>
+
+<p align = "center">
+    <img src = "https://github-profile-trophy.vercel.app/?username=painfueg0"/>
 </p>
 
 <p align = "center">
