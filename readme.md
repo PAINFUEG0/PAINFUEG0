@@ -40,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
     <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
     </br></br>
-    <b>Software and tools that I regularily use :</b>
+    <b>Software and tools that I regularily / frequently use :</b>
     </br></br>
     <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40" height="40"/>
     <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" width="40" height="40"/>
