@@ -15,9 +15,9 @@
 </p>
 
 <p align = "center">
-    <b>He / Him | Learning Node.js and TypeScript | Born: 21/11/2K02
+    <b>He / Him | Trying to be a full-MERN-stack web developer | Born: 21/11/2K02
     </br>
-    Currently working on making an open-source discord.js based discord bot</b>
+    Currently working on making a few open-source discord.js based bot/s</b>
 </p>
 
 <p align = "center">
