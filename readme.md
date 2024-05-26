@@ -15,7 +15,7 @@
 </p>
 
 <p align = "center">
-    <b>He / Him | Trying to be a full-MERN-stack web developer | Born: 21/11/2K02
+    <b>He / Him | Trying to be a Full-[MERN]-Stack developer | Born: 21/11/2K02
     </br>
     Currently working on making a few open-source discord.js based bot/s</b>
 </p>
